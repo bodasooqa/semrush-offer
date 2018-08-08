@@ -4,6 +4,7 @@ npm-debug.log
 bower_components
 dist
 .vscode
+.idea
 .sass-cache
 .awspublish*
 config.json
